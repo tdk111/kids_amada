@@ -1,5 +1,7 @@
 
-A atilored version of https://github.com/COINtoolbox/AMADA_shiny for KiDS
+A tailored version of https://github.com/COINtoolbox/AMADA_shiny for KiDS
+
+Download AMADA compatible KiDS catalogues from here http://great.roe.ac.uk/data/protected/KiDS/GAMA_DR2_KIDS/amada including a random catalogue example.
 
 ## AMADA
 

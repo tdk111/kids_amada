@@ -1,4 +1,4 @@
-#library(AMADA)
+library(AMADA)
 library(shiny)
 library(mvtnorm)
 library(pheatmap)
