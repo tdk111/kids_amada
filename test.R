@@ -1,4 +1,4 @@
-library(AMADA)
+#library(AMADA)
 library(shiny)
 library(mvtnorm)
 library(pheatmap)
@@ -6,7 +6,7 @@ library(markdown)
 library(plotly)
 library(circlize)
 library(RColorBrewer)
-library(shinysky)
+#library(shinysky)
 options(shiny.maxRequestSize=100*1024^2)
 
 server<-function(input, output, session) {
